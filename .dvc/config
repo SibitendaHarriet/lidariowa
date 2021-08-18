@@ -1,4 +1,8 @@
 [core]
-    remote = dvc-remote
+    remote = remote
 ['remote "dvc-remote"']
     url = ../../remote
+['remote "v1"']
+    url = C:/Users/DELL/lidariowa
+['remote "remote"']
+    url = C:/Users/DELL/lidariowa
